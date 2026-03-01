@@ -1,4 +1,3 @@
-# projet-cheveux-longs.github.io
 <!DOCTYPE html>
 <html lang="fr">
 <head>
