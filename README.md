@@ -435,7 +435,6 @@
         <h3>🚀 Ce qu'on prépare</h3>
         <div class="projets-list">
           
-          </div>
           <div class="projet-item">
             <div class="projet-label">À venir</div>
             <div class="projet-title">Partenariats avec des associations</div>
