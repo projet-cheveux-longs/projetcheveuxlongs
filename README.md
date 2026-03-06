@@ -415,7 +415,7 @@
         <h3>Ce qu'on a accompli</h3>
         <div class="timeline">
           <div class="timeline-item">
-            <div class="timeline-dot"></div>
+            <div class="timeline-dot">✂️</div>
             <div class="timeline-content">
               <div class="timeline-date">27 septembre 2025</div>
               <div class="timeline-title">Événement collecte de cheveux — Lumen, Paris-Saclay</div>
